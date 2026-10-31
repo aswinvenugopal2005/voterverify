@@ -1,0 +1,20 @@
+# Python & Virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+backend/venv/
+backend/uploads/captures/temp_*
+.pytest_cache/
+
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Environment and Local DB
+backend/.env
+*.log
+
+# IDE
+.vscode/
+.idea/
